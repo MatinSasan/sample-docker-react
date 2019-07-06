@@ -2,7 +2,9 @@
 
 2.`docker run -p 3000:3000 -v \$(pwd):/app (dockerImageId)`
 
->instead of \$(pwd) use absolute path for windows
+3.Added docker-compose to automate all these
+
+> instead of \$(pwd) use absolute path for windows
 
 ## Import note for React on Docker:
 
